@@ -1,0 +1,367 @@
+{
+  "questions": [
+    {
+      "question": "Do you have any pet-related allergies?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 0,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 1,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Are you looking for a pet that is independent?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 1,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        }
+      ]
+    },
+    {
+      "question": "How much time can you dedicate to daily excersie/playtime?",
+      "answers": [
+        {
+          "answer": "1-2 hours",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 0,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "30 minutes to 1 hour",
+          "scores": {
+            "cat": 1,
+            "dog": 0,
+            "rabbit": 1,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "Less than 30 minutes",
+          "scores": {
+            "cat": 0,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Are you interested in having a pet that can perform tricks?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 1,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "How much noise can you tolerate in your living enviroment?",
+      "answers": [
+        {
+          "answer": "High",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 0,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "Moderate",
+          "scores": {
+            "cat": 1,
+            "dog": 0,
+            "rabbit": 1,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "Low",
+          "scores": {
+            "cat": 0,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Are you looking for a pet that can provide companionship?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 1,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 0,
+            "fish": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Do you prefer an active or a low-energy pet?",
+      "answers": [
+        {
+          "answer": "Active",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "Low-energy",
+          "scores": {
+            "cat": 1,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Do you have enough space for a large pet?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 1,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Are you looking for a pet that can provide emotional support?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 1,
+            "dog": 1,
+            "rabbit": 0,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 0,
+            "dog": 0,
+            "rabbit": 1,
+            "fish": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Is it important for you to have a pet that can live a long time?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 1,
+            "dog": 1,
+            "rabbit": 0,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 0,
+            "dog": 0,
+            "rabbit": 1,
+            "fish": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Do you have a busy lifestyle?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 0,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 1,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Do you prefer a pet that requires minimal grooming?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 1,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Do you have a preference for an aquatic pet?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 0,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 1,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Are you able to provide outdoor access for your pet?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 1,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 1,
+            "dog": 0,
+            "rabbit": 0,
+            "fish": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Are you willing to invest in pet training classes?",
+      "answers": [
+        {
+          "answer": "Yes",
+          "scores": {
+            "cat": 0,
+            "dog": 1,
+            "rabbit": 0,
+            "fish": 0
+          }
+        },
+        {
+          "answer": "No",
+          "scores": {
+            "cat": 1,
+            "dog": 0,
+            "rabbit": 1,
+            "fish": 1
+          }
+        }
+      ]
+    }
+  ]
+}
